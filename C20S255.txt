@@ -1,0 +1,11 @@
+Chapter Name: TRIAL OF SUMMONS-CASES BY MAGISTRATES
+Title: Acquittal or conviction.
+Description:
+If the Magistrate, upon taking the evidence referred to in section 254 and
+such further evidence, if any, as he may, of his own motion, cause to be produced, finds the accused not guilty, he
+shall record an order of acquittal.
+(2) Where the Magistrate does not proceed in accordance with the provisions of section 325 or section 360, he
+shall, if he finds the accused guilty, pass sentence upon him according to law.
+(3) A Magistrate may, under section 252 or section 255, convict the accused of any offence triable under this
+Chapter, which from the facts admitted or proved he appears to have committed, whatever may be the nature of the
+complaint or summons, if the Magistrate is satisfied that the accused would not be prejudiced thereby.
