@@ -1,0 +1,6 @@
+Chapter Name:JURISDICTION OF THE CRIMINAL COURTS IN INQUIRIES AND TRIALS
+Title: Offence triable where act is done or consequence ensues.
+Description:
+When an act is an offence by 
+reason of anything which has been done and of a consequence which has ensued, the offence may be inquired into 
+or tried by a Court within whose local jurisdiction such thing has been done or such consequence has ensued.
