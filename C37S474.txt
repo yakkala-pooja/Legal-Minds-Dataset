@@ -1,0 +1,6 @@
+Chapter Name: MISCELLANEOUS
+Title: Trials before High Courts
+Description:
+When an offence is tried by the High Court otherwise than under 
+section 407, it shall, in the trial of the offence, observe the same procedure as a Court of Sessions would 
+observe if it were trying the case

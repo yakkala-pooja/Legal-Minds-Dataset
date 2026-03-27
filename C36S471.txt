@@ -1,0 +1,7 @@
+Chapter Name: LIMITATION FOR TAKING COGNIZANCE OF CERTAIN OFFENCES
+Title:  Exclusion of date on which Court is closed.
+Description:
+Where the period of limitation expires on a day when 
+the Court is closed, the Court may take cognizance on the day on which the Court reopens.
+Explanation.—A Court shall be deemed to be closed on any day within the meaning of this section, if, 
+during its normal working hours, it remains closed on that day.
