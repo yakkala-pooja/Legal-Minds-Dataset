@@ -1,0 +1,9 @@
+Chapter Name: CONSTITUTION OF CRIMINAL COURTS AND OFFICES
+Title: Classes of Criminal Courts.
+Description:
+Besides the High Courts and the Courts constituted under any law, 
+other than this Code, there shall be, in every State, the following classes of Criminal Courts, namely:—
+(i) Courts of Session;
+(ii) Judicial Magistrates of the first class and, in any metropolitan area, Metropolitan Magistrates;
+(iii) Judicial Magistrates of the second class; and
+(iv) Executive Magistrates.

@@ -1,0 +1,7 @@
+Chapter Name: AID TO THE MAGISTRATES AND THE POLICE 
+Section Name: AID TO THE MAGISTRATES AND THE POLICE
+Title:Aid to person, other than police officer, executing warrant
+Description:
+When a warrant is directed to a 
+person other than a police officer, any other person may aid in the execution of such warrant, if the person 
+to whom the warrant is directed be near at hand and acting in the execution of the warrant.
