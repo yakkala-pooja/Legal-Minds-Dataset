@@ -1,0 +1,7 @@
+Chapter Name : APPEALS
+Title : Finality of judgments and orders on appeal
+Description :
+Judgments and orders passed by an Appellate Court upon an appeal shall be final, except in the cases provided for in section 377, section 378, sub-section (4) of section 384 or Chapter XXX:
+Provided that notwithstanding the final disposal of an appeal against conviction in any case, the Appellate Court may hear and dispose of, on the merits,—
+(a) an appeal against acquittal under section 378, arising out of the same case, or
+(b) an appeal for the enhancement of sentence under section 377, arising out of the same case.
