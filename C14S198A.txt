@@ -1,0 +1,5 @@
+Chapter Name : CONDITIONS REQUISITE FOR INITIATION OF PROCEEDINGS
+Title : Prosecution of offences under section 498A of the Indian Penal Code
+Description :
+No Court shall take cognizance of an offence punishable under section 498A of the Indian Penal Code (45 of 1960) except upon a police report of facts which constitute such offence or upon a complaint made by the person aggrieved by the offence or by her father, mother, brother, sister or by her father’s or mother’s brother or sister or, with the leave of the Court, by any other person related to her by blood, marriage or adoption.
+

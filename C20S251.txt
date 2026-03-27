@@ -1,0 +1,6 @@
+Chapter Name: TRIAL OF SUMMONS-CASES BY MAGISTRATES
+Title: Substance of accusation to be stated.
+Description:
+When in a summons-case the accused appears or is brought
+before the Magistrate, the particulars of the offence of which he is accused shall be stated to him, and he shall be
+asked whether he pleads guilty or has any defence to make, but it shall not be necessary to frame a formal charge.

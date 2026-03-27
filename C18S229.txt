@@ -1,0 +1,5 @@
+Chapter Name: TRIAL BEFORE A COURT OF SESSION
+Title: Conviction on plea of guilty.
+Description:
+If the accused pleads guilty, the Judge shall record the plea and may, in his
+discretion, convict him thereon.

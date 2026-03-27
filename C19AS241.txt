@@ -1,0 +1,6 @@
+Chapter Name: TRIAL OF WARRANT-CASES BY MAGISTRATES
+Section Name: Cases instituted on a police report
+Title: Conviction on plea of guilty
+Description:
+If the accused pleads guilty, the Magistrate shall record the plea and may,
+in his discretion, convict him thereon.

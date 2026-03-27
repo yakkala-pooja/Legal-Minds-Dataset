@@ -1,0 +1,5 @@
+Chapter Name: TRIAL BEFORE A COURT OF SESSION
+Title: Trial to be conducted by Public Prosecutor.
+Description:
+In every trial before a Court of Session, the prosecution
+shall be conducted by a Public Prosecutor.
